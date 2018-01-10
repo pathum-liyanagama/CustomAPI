@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "title": "Check-in",
+      "description": "BCN-CPH / CPH-BCN",
+      "price": "5,00€",
+      "badge": "2"
+    },
+    {
+      "title": "Seat",
+      "description": "Sri Lankan Airlines - 15A",
+      "price": "25,00€",
+      "badge": "1"
+    },
+    {
+      "title": "Seat",
+      "description": "Sri Lankan Airlines - 16C",
+      "price": "25,00€",
+      "badge": "1"
+    },
+    {
+      "title": "Fast track",
+      "description": "Colombo Airport, Katunayaka",
+      "price": "10,00€",
+      "badge": "1"
+    }
+  ],
+  "discount": {
+    "description": "New year promotions",
+    "price": "-5,00€",
+    "badge": "1"
+  },
+  "total": {
+    "amount": "60,00€",
+    "currency": "EUR"
+  }
+}
